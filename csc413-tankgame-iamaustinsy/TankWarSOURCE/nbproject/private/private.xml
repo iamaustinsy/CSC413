@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/Resources/worlds/world2.txt</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/State/MenuState.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Entity/statics/Shield.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/tankwar/Controller.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Input/KeyManager.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Graphix/Assets.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/State/State.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/tankwar/Handler.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Input/MouseManager.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Tiles/Brick1.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Entity/statics/Brick.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/tankwar/Game.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Entity/statics/StaticEntity.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Entity/Entity.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Display/Display.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Entity/statics/Buff.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Entity/Creatures/Creature.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Entity/EntityManager.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Entity/Creatures/Player/Player.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Graphix/ImageLoader.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Entity/statics/BrickUnbreakable.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Entity/Creatures/Player/Bullet.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/tankwar/Launcher.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/State/GameOver.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/State/GameState.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Tiles/Tile.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/World/World.java</file>
+            <file>file:/C:/Users/iamaustinsy/Documents/TankWar/src/Graphix/GameCamera.java</file>
+        </group>
+    </open-files>
+</project-private>
